@@ -17,6 +17,8 @@ We are aiming at implement the best deep learning classifier that we can create 
 
 Simply run all codes, results will be printed out
 
+## Model Accuarcy
+
   | Model | Epochs   | Accuracy |
   | :--- | :------: | :-------: |
   | `CNN_model` | 100 | **83%** |
