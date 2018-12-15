@@ -19,10 +19,10 @@ Simply run all codes, results will be printed out
 
 ## Model Accuarcy
 
-  | Model | Epochs   | Accuracy |
-  | :--- | :------: | :-------: |
-  | `CNN_model` | 100 | **83%** |
-  | `CNN_model`, `Data Augmentation` | 100 | **88%** |
+  | Model | Epochs   | Accuracy | Loss |
+  | :--- | :------: | :-------: | :---: |
+  | `CNN_model` | 100 | **83%** | 1.35 |
+  | `CNN_model`, `Data Augmentation` | 100 | **88%** | 0.60 |
     
 ## References
 [What is the VGG neural network?](https://www.quora.com/What-is-the-VGG-neural-network)\
